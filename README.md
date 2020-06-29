@@ -10,3 +10,5 @@ Seizure Detection for Stereoelectroencephalography, which will be submitted in I
 The helper ipython-notebook file is to help us to split long edf file into shorter clips, which are more friendly to calculating.
 
 The Seizure-detection ipython-notebook file is to implement both seizure detection and visualization part.
+
+All figures related to the seizure detction part of the project are stored in wiki section.
