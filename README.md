@@ -1,14 +1,14 @@
 # Seizure-detetction
 
-These two ipython-notebook file are part of the seizure detection project.
+This document is the supporting material for the paper in the 2020 IEEE BIBM (coming soon) and 2020 SCASB (https://www.unthsc.edu/research/wp-content/uploads/sites/21/LinLi-2020-South-Central-ASB-Meeting-Abstract.pdf).
 
-The seizure detection project is the sencond part of the paper Automatic Electrophysiological Noise Reduction and Epileptic 
-Seizure Detection for Stereoelectroencephalography, which will be submitted in IEEE BIBM 2020 conference.
+This open-source algorithm is aimed for efficiently detecting the electrophysiological seizures specifically designed for Stereoelectroencephalography (SEEG).
 
-  ![3c5c2faebdf8d1ac7d5fa4c00b29fdd](https://user-images.githubusercontent.com/67562378/85972586-ff237180-b995-11ea-966f-3b9043307655.png)
+To run the demo code (SZD.ipynb), following environment and toolboxes are needed:
+Numpy
+Pandas
+Matplotlib
+Scipy
+MNE
 
-The helper ipython-notebook file is to help us to split long edf file into shorter clips, which are more friendly to calculating.
-
-The Seizure-detection ipython-notebook file is to implement both seizure detection and visualization part.
-
-All figures related to the seizure detction part of the project are stored in wiki section.
+The helper.ipynb is to split edf file into shorter clips for a faster process. The figures related to the paper is in wiki section.
